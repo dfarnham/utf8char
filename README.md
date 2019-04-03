@@ -1,5 +1,5 @@
 # utf8char
-A simple utf8 char stream reader to test my understanding UTF-8
+A simple utf8 char stream reader to test my UTF-8 understanding
 ```
 utf8char < beer+pizza
 🍺&🍕
